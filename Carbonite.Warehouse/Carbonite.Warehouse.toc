@@ -1,0 +1,13 @@
+## Interface: 30403
+## Title: Carbonite Warehouse v3.4.3-00003
+## Version: v3.4.3-00003
+## Author: No One
+## Notes: Released Under GPL
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: NXWhouse
+## RequiredDeps: Carbonite
+
+Locales\locales.xml
+NxWarehouse.lua
+

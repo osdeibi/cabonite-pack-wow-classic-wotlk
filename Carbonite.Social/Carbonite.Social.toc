@@ -1,0 +1,13 @@
+## Interface: 30403
+## Title: Carbonite Social & Punks v3.4.3-00003
+## Version: v3.4.3-00003
+## Author: No One
+## Notes: Released Under GPL
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: NXSocial
+## RequiredDeps: Carbonite
+
+Locales\locales.xml
+NxSocial.lua
+
