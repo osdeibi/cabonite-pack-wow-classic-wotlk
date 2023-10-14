@@ -1,6 +1,6 @@
 ## Interface: 30403
-## Title: Carbonite Social & Punks v3.4.3-00003
-## Version: v3.4.3-00003
+## Title: Carbonite Social & Punks @project-version@
+## Version: @project-version@
 ## Author: No One
 ## Notes: Released Under GPL
 ## DefaultState: Enabled

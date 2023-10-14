@@ -1,6 +1,6 @@
 ## Interface: 30403
-## Title: Carbonite Notes v3.4.3-00003
-## Version: v3.4.3-00003
+## Title: Carbonite Notes @project-version@
+## Version: @project-version@
 ## Author: No one
 ## Notes: Released Under GPL
 ## DefaultState: Enabled
